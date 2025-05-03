@@ -3,13 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: hhxk233's little house
+title: HHXK233's Blog
 subtitle: ''
 description: ''
 keywords:
-author: hhxk233
+  - Physics
+  - ECE
+  - Computer Science
+  - Engineering
+  - Arknights
+author: Yuheng Wang
 language: en
-timezone: ''
+timezone: 'America/New_York'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -67,7 +72,17 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  "SJTU_courses": "SJTU Courses"
+  "Umich_courses": "UMich Courses"
+  "Some_physics": "Some Physics"
+  "Research and Experience": "Research and Experience"
 tag_map:
+  "SJTU": "SJTU"
+  "UMich": "UMich"
+  "Physics": "Physics"
+  "ECE": "ECE"
+  "Computer Science": "Computer Science"
+  "Engineering": "Engineering"
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
