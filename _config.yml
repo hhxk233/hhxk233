@@ -117,5 +117,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/hhxk233/hhxk233.github.io
+  repo: https://github.com/hhxk233/hhxk233
   branch: main
